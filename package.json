@@ -1,0 +1,19 @@
+{
+  "name": "websiteframework",
+  "version": "0.0.1",
+  "description": "Website Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallycr/websiteframework.git"
+  },
+  "author": "Walter Walker Pottinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallycr/websiteframework/issues"
+  },
+  "homepage": "https://github.com/wallycr/websiteframework#readme"
+}
